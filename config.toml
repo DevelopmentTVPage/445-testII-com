@@ -1,0 +1,14 @@
+#Hugo configuration
+title = "Test II"
+baseURL = "https:\/\/testII.com\/testII"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+galleryChannelIds = ""
+
+[params]
+loginId = "1758991"
+subfolder = "\/testII"
+firstpartycookies = true
+cookiedomain = "testII.com"
